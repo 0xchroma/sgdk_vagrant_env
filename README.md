@@ -14,4 +14,4 @@ Vagrant script for creating a ready to roll Sega Genesis development environment
 * 'git clone https://github.com/olibroken/sgdk_vagrant_env'
 * 'cd sgdk_vagrant_env'
 * 'vagrant up' (This is going to take atleast an hour to build the toolchain, follow the screen once completed).
-* 'vagrant shh' if you have ssh support or create a session using PUTTY.
+* 'vagrant ssh' if you have ssh support or create a session using PUTTY.
